@@ -4,6 +4,7 @@
    - Preliminary data cleaning
       - Remove observations of programs for age > 25
       - Standardard variables
+      - Determine how to handle missing values
    - Determining distributions & possible transformations
    - Visualizations
 2. Go to their website or try using their app ourselves to get more context
