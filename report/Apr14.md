@@ -4,6 +4,6 @@
    - Preliminary data cleaning
       - Remove observations of programs for age > 25
       - Standardard variables
-   - Determining Distributions & Possible Transformations
+   - Determining distributions & possible transformations
    - Visualizations
 2. Come up with possible questions for stakeholders
