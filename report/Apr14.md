@@ -6,4 +6,5 @@
       - Standardard variables
    - Determining distributions & possible transformations
    - Visualizations
-2. Come up with possible questions for stakeholders
+2. Go to their website or try using their app ourselves to get more context
+3. Come up with possible questions for stakeholders
