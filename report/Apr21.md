@@ -14,7 +14,7 @@ MCMF
 - Possible idea of creating a PowerBI dashboard for some visualization purposes - might be useful especially with geographic data considering that we have access to coordinates which PowerBI can effectively handle. 
 
 Kaggle
-- Download data
+- Download data & setup environment
 - Start EDA
   - 800+ features... overfitting/multicollinearity might be an issue; see correl matrix?
   - visualize distr. of variables & apply transformations
