@@ -1,5 +1,6 @@
 4/21 Report
 
+MCMF
 - Worked on MCMF data set in class
 - Started out by cleaning column names
 - Did some minor additional cleaning: removed a specific row that did not contain a program name (it was the only such instance) and also renamed a program name with a typing discrepancy to align with the broader group that it fits into
@@ -11,3 +12,11 @@
 - Began exploring the cost associated with certain programs and program types to investigate possibilities of inequity
 - Grouped the data by cost and program type - created a pivot table with these two values to provide better clarity at how cost differs based on program type
 - Possible idea of creating a PowerBI dashboard for some visualization purposes - might be useful especially with geographic data considering that we have access to coordinates which PowerBI can effectively handle. 
+
+Kaggle
+- Download data
+- Start EDA
+  - 800+ features... overfitting/multicollinearity might be an issue
+  - see distr. of variables & apply transformations
+  - feature engineering... going to be tough with so many predictors
+  - check for & handle missing values
