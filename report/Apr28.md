@@ -2,9 +2,9 @@
 
 ## Team Senioritis: Seonuk Kim, Brock Underberg, Ashley Witarsa
 
-MCMF
-### Progress/Accomplishments:
-### Problems/Challenges:
-### Plan/Next Steps:
+### MCMF
+#### Progress/Accomplishments:
+#### Problems/Challenges:
+#### Plan/Next Steps:
 
-Kaggle
+### Kaggle
