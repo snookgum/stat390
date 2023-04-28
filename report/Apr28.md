@@ -8,3 +8,6 @@
 #### Plan/Next Steps:
 
 ### Kaggle
+#### Progress/Accomplishments:
+#### Problems/Challenges:
+#### Plan/Next Steps:
