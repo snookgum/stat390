@@ -16,4 +16,4 @@
 - Have trouble import py-earth in VS Code (can run in Jupyter Notebook)
 #### Plan/Next Steps:
 - Data visualization for the 7 predictors; consider transformations
-- Start developing a model & get initial predictions
+- Start developing a model (Random Forest, Boosting, MARS Ensemble) & get initial predictions
