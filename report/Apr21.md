@@ -1,6 +1,7 @@
-4/21 Report
+# 4/21 Report
+## Team Senioritis: Seonuk Kim, Brock Underberg, Ashley Witarsa
 
-MCMF
+### MCMF
 - Worked on MCMF data set in class
 - Started out by cleaning column names
 - Did some minor additional cleaning: removed a specific row that did not contain a program name (it was the only such instance) and also renamed a program name with a typing discrepancy to align with the broader group that it fits into
@@ -13,10 +14,16 @@ MCMF
 - Grouped the data by cost and program type - created a pivot table with these two values to provide better clarity at how cost differs based on program type
 - Possible idea of creating a PowerBI dashboard for some visualization purposes - might be useful especially with geographic data considering that we have access to coordinates which PowerBI can effectively handle. 
 
-Kaggle
-- Download data & setup environment
-- Start EDA
-  - 700+ features... overfitting/multicollinearity might be an issue; see correl matrix?
-  - visualize distr. of variables & apply transformations
-  - feature engineering... going to be tough with so many predictors
-  - check for & handle missing values
+### Kaggle
+#### Progress/Accomplishments:
+-	Download data & setup environment
+-	Started brainstorming for EDA
+#### Problems/Challenges:
+-	Not sure how to shrink down predictors
+-	Not sure how to approach feature engineering since I don’t know what predictors mean
+#### Plan/Next Steps:
+-	Create correlation matrix to shrink down predictors
+-	Visualize distr. of variables & consider transformations
+-	Handle missing values
+-	Start modeling
+
