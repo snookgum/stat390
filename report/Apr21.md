@@ -16,7 +16,7 @@ MCMF
 Kaggle
 - Download data & setup environment
 - Start EDA
-  - 800+ features... overfitting/multicollinearity might be an issue; see correl matrix?
+  - 700+ features... overfitting/multicollinearity might be an issue; see correl matrix?
   - visualize distr. of variables & apply transformations
   - feature engineering... going to be tough with so many predictors
   - check for & handle missing values
