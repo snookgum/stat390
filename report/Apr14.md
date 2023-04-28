@@ -2,7 +2,7 @@
 
 ## Team Senioritis: Seonuk Kim, Brock Underberg, Ashley Witarsa
 
-### Plan Next Steps:
+### Plan/Next Steps:
 MCMF
 1. Perform EDA
    - Basic summary statistics
