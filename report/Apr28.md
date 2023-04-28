@@ -15,6 +15,8 @@
 - Continue work on interactive dashboard 
 - Identify other important columns for visualization (cost, transportation available, etc.)
 - Focus on activities with <= 25 max age: identify patterns, visualizations.
+- Complete data visualization tasks and EDA by Wednesday 05/03
+- Start and complete presentation for midterm check-in by Thursday 05/04
 
 ### Kaggle
 #### Progress/Accomplishments:
@@ -26,3 +28,4 @@
 #### Plan/Next Steps:
 - Data visualization for the 7 predictors; consider transformations
 - Start developing a model (Random Forest, Boosting, MARS Ensemble) & get initial predictions
+- Start and complete presentation for midterm check-in by Thursday 05/04
