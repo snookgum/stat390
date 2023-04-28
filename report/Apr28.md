@@ -4,12 +4,21 @@
 
 ### MCMF
 #### Progress/Accomplishments:
+- Started working on an interactive dashboard in pandas for visualization 
+- Created pivot tables for added flexiility in visualizations 
+- Split dataset based on meeting type and categories 
+- Created visualizations for top categories and meeting type split 
+- Identified activities <= 25 max age
 #### Problems/Challenges:
+- Had a little bit of trouble with pandas version (error: cannot import name 'find_stack_level' from 'pandas.util._exceptions')
 #### Plan/Next Steps:
+- Continue work on interactive dashboard 
+- Identify other important columns for visualization (cost, transportation available, etc.)
+- Focus on activities with <= 25 max age: identify patterns, visualizations.
 
 ### Kaggle
 #### Progress/Accomplishments:
-- Found top 20 predictos with highest correlation with target variable
+- Found top 20 predictors with highest correlation with target variable
 - Created correlation matrix to see which of the top 20 predictors were correlated with each other; shrunk to 7 predictors
 - Handled missing values (dropped rows)
 #### Problems/Challenges:
