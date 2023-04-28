@@ -1,7 +1,8 @@
 # Progress Report: 4/10-4/14
 
+## Team Senioritis: Seonuk Kim, Brock Underberg, Ashley Witarsa
 
-## Task: Come up with a plan for the next week
+### Plan Next Steps:
 MCMF
 1. Perform EDA
    - Basic summary statistics
