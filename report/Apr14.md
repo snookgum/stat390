@@ -1,5 +1,8 @@
+# Progress Report: 4/10-4/14
+
+
 ## Task: Come up with a plan for the next week
-My CHI. My Future. 
+MCMF
 1. Perform EDA
    - Basic summary statistics
    - Preliminary data cleaning
