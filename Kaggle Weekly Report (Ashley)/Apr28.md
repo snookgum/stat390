@@ -1,6 +1,8 @@
 
 
 # Progress Report: 4/22-4/28
+## Ashley Witarsa
+### Kaggle
 #### Progress/Accomplishments: 
 - Identified predictors that had the highest (absolute value) correlation with the target variable 
 - Filtered out columns where correlation is NaN
