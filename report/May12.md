@@ -6,7 +6,7 @@
 #### Progress/Accomplishments:
 - 
 #### Problems/Challenges:
-- Had a little bit of trouble with pandas version (error: cannot import name 'find_stack_level' from 'pandas.util._exceptions')
+- 
 #### Plan/Next Steps:
 -  
 - 
