@@ -4,12 +4,14 @@
 
 ### MCMF
 #### Progress/Accomplishments:
-- 
+- PowerBI visualization of Chicago neighborhoods and availability of free food/transportation for different programs 
+- Explored availability of equitable programs based on neighborhood (based on price, food, transportation)
+- Used supplementary dataset from CMAP to explore demographics by location & identify which neighborhoods are underserved
 #### Problems/Challenges:
-- 
+- Supplmentary dataset is really big and will need to do more in depth exploration to figure out which specific information would be useful to our project
 #### Plan/Next Steps:
--  
-- 
+-  Explore CMAP dataset in more depth
+- Visualization of two datasets using PowerBI 
 
 ### Kaggle
 #### Progress/Accomplishments:
