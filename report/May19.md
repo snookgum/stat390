@@ -18,6 +18,8 @@
 
 ### Kaggle
 #### Progress/Accomplishments:
+- Tried feature selection using feature importance of Random Forest, XGBoost, and Lasso
+  - Only used ~20 predictors; performed as good as previously but not significantly better
 - Setup Google Colab to run deep learning models
 - Currently exploring/tuning neural network models
 #### Problems/Challenges:
