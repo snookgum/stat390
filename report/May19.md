@@ -18,6 +18,9 @@
 
 ### Kaggle
 #### Progress/Accomplishments:
-
+- Setup Google Colab to run deep learning models
+- Currently exploring/tuning neural network models
 #### Problems/Challenges:
+- Not sure if we're overfitting since we can't see private leaderboard
 #### Plan/Next Steps:
+- Finalize model that minimizes error
